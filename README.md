@@ -1,13 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:1a0a1f,100:0a0a1f&height=200&text=DEV_SRIVASTAVA&fontColor=ff0066&fontSize=52&fontAlignY=45&desc=FULL-STACK%20·%20AI%20WORKFLOWS%20·%20SYSTEM%20DESIGN&descFontColor=00ffcc&descSize=14&descAlignY=68&stroke=ff0066&strokeWidth=1)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3000&pause=1000&color=FF0066&center=true&vCenter=true&width=600&height=80&lines=DEV_SRIVASTAVA" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=600&height=40&lines=Loading...;Full-Stack+Developer;AI+Workflows;System+Design+Enthusiast;Experimental;Building..." alt="Typing SVG" />
 
 </div>
 
 <br/>
-```
-~/github/MD-5-5/README.md
-```
 
 <br/>
 
