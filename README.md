@@ -1,56 +1,119 @@
 <div align="center">
-  <h3>Hi 👋, I'm Dev Srivastava</h3>
-  <p>A passionate problem-solver and developer, building bridges between data and design.</p>
+
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:1a0a1f,100:0a0a1f&height=200&text=DEV_SRIVASTAVA&fontColor=ff0066&fontSize=52&fontAlignY=45&desc=FULL-STACK%20·%20AI%20WORKFLOWS%20·%20SYSTEM%20DESIGN&descFontColor=00ffcc&descSize=14&descAlignY=68&stroke=ff0066&strokeWidth=1)
+
 </div>
 
-<hr/>
+<br/>
+```
+~/github/MD-5-5/README.md
+```
 
-🤖About Me
+<br/>
 
-I'm a Full-Stack Developer from India, with a huge passion for **Artificial Intelligence and Workflows** with **System Design**
+## `> whoami`
+```javascript
+const dev = {
+  name    : "Dev Srivastava",
+  location: "India 🇮🇳",
+  learning: ["MERN Stack", "System Design"],
+  grinding: "DSA in C++",
+  mission : ["AI Workflows", "Open Source"],
+  status  : "Building something cool...",
+};
+```
 
-* 🌱 I'm currently diving deep into the **MERN Stack**.
-* 🧠 Along with development, I'm sharpening my problem-solving skills with **DSA in C++**.
-* 🚀 I'm actively looking for opportunities to **contribute to open-source projects**.
+<br/>
 
+---
 
-<hr/>
-🛠️ Tech Stack :
+## `> stats --streak`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![shadcn UI](https://img.shields.io/badge/shadcn%20UI-000000?logo=shadcnui&logoColor=white)
-<br/>
-<br/>
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=gsap&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-<br/>
-<br/>
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1A1A1A?logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
-<br/>
-<br/>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
-<br/>
-<hr/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-5-5&show_icons=true&theme=tokyonight&count_private=true" alt="MD-5-5's GitHub Stats" />
+
+| 🔥 Current Streak | ⚡ Longest Streak | 💀 Total Commits |
+|:-----------------:|:-----------------:|:----------------:|
+| Check live below  | Check live below  | Check live below |
+
+<img src="https://streak-stats.demolab.com/?user=MD-5-5&theme=dark&hide_border=true&background=0a0a0f&ring=ff0066&fire=ff0066&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=ffffff&sideNums=ffffff&dates=666699&stroke=ff006633" width="96%"/>
+
 </div>
-<hr/>
-📬 Connect with Me
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ved)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsrivastav64@gmail.com)
+---
+
+## `> languages --top`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-5-5&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=00ffcc&text_color=e0e0ff&langs_count=8&count_private=true" width="48%"/>
+
+
+</div>
+
 <br/>
+
+---
+
+## `> git log --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-5-5&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00ffcc&line=ff0066&point=ffffff&area=true&area_color=ff006622" width="96%"/>
+
+</div>
+
 <br/>
-My inbox is always open 📬. Whether you have a question ❓, an idea 💡, or just want to say hi 👋, let's talk! 💬
+
+---
+
+## `> tech --arsenal`
+
+**[ FRONTEND ]**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a0f)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ffcc?style=for-the-badge&logo=typescript&logoColor=0a0a0f)
+![React](https://img.shields.io/badge/React-ff0066?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-e0e0ff?style=for-the-badge&logo=nextdotjs&logoColor=0a0a0f)
+![Three.js](https://img.shields.io/badge/Three.js-00ffcc?style=for-the-badge&logo=threedotjs&logoColor=0a0a0f)
+![GSAP](https://img.shields.io/badge/GSAP-ff0066?style=for-the-badge&logo=gsap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-00ffcc?style=for-the-badge&logo=tailwindcss&logoColor=0a0a0f)
+![SCSS](https://img.shields.io/badge/SCSS-ff0066?style=for-the-badge&logo=sass&logoColor=white)
+![shadcn UI](https://img.shields.io/badge/shadcn_UI-e0e0ff?style=for-the-badge&logo=shadcnui&logoColor=0a0a0f)
+
+**[ BACKEND & DATABASE ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-00ffcc?style=for-the-badge&logo=nodedotjs&logoColor=0a0a0f)
+![MongoDB](https://img.shields.io/badge/MongoDB-ff0066?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00ffcc?style=for-the-badge&logo=mysql&logoColor=0a0a0f)
+![Redis](https://img.shields.io/badge/Redis-ff0066?style=for-the-badge&logo=redis&logoColor=white)
+
+**[ TOOLS & OTHERS ]**
+
+![Docker](https://img.shields.io/badge/Docker-00ffcc?style=for-the-badge&logo=docker&logoColor=0a0a0f)
+![n8n](https://img.shields.io/badge/n8n-ff0066?style=for-the-badge&logo=n8n&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00ffcc?style=for-the-badge&logo=cplusplus&logoColor=0a0a0f)
+![HTML5](https://img.shields.io/badge/HTML5-ff0066?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00ffcc?style=for-the-badge&logo=css3&logoColor=0a0a0f)
+
+<br/>
+
+---
+
+## `> connect --now`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ff0066?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ved)
+[![Email](https://img.shields.io/badge/EMAIL_ME-00ffcc?style=for-the-badge&logo=gmail&logoColor=0a0a0f)](mailto:devsrivastav64@gmail.com)
+
+<br/>
+
+`// inbox always open — questions, ideas, collabs, or just a hello`
+
+</div>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a1f,50:1a0a1f,100:0a0a0f&height=60&stroke=00ffcc&strokeWidth=1)
