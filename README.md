@@ -34,7 +34,7 @@ const dev = {
 |:-----------------:|:-----------------:|:----------------:|
 | Check live below  | Check live below  | Check live below |
 
-<img src="https://streak-stats.demolab.com/?user=MD-5-5&theme=dark&hide_border=true&background=0a0a0f&ring=ff0066&fire=ff0066&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=ffffff&sideNums=ffffff&dates=666699&stroke=ff006633" width="96%"/>
+<img src="https://streak-stats.demolab.com/?user=MD-5-5&theme=dark&hide_border=true&background=0a0a0f&ring=ff0066&fire=ff0066&currStreakLabel=00ffcc&sideLabels=00ffcc&currStreakNum=ffffff&sideNums=ffffff&dates=666699&stroke=ff006633&starting_year=2025" width="96%"/>
 
 </div>
 
