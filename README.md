@@ -15,9 +15,8 @@
 const dev = {
   name    : "Dev Srivastava",
   location: "India 🇮🇳",
-  learning: ["MERN Stack", "System Design"],
+  learning: ["MERN Stack", "System Design", "DevOps", "Machine Learning"],
   grinding: "DSA in C++",
-  mission : ["AI Workflows", "Open Source"],
   status  : "Building something cool...",
 };
 ```
