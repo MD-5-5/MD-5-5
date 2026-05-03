@@ -54,17 +54,6 @@ const dev = {
 
 ---
 
-## `> git log --graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MD-5-5&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=00ffcc&line=ff0066&point=ffffff&area=true&area_color=ff006622" width="96%"/>
-
-</div>
-
-<br/>
-
----
 
 ## `> tech --arsenal`
 
